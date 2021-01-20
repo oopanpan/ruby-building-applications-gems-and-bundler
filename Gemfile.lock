@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/rack/rack
+  revision: 2223f2f87abd4acf4cd8e7b775350cf2f5ef9c57
+  specs:
+    rack (2.3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  awesome_print (~> 1.8)
+  rack!
+
+BUNDLED WITH
+   2.2.4
